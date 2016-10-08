@@ -87,3 +87,13 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Custom Ignores
+
+*.[jJ][pP][gG]
+*.[pP][nN][gG]
+*.[pP][dD][fF]
+
+# Folders to Ignore
+mnist_data/
+cifar_data/
